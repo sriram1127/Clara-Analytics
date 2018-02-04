@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_144">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Jars/Hibernate Jars/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Hibernate Jars/classmate-0.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Hibernate Jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Hibernate Jars/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Hibernate Jars/hibernate-core-5.2.6.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Hibernate Jars/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Hibernate Jars/javassist.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Hibernate Jars/javax.persistence-2.1.0-rc1.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Hibernate Jars/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Hibernate Jars/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Hibernate Jars/mysql-connector-java-5.1.40.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/restful/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/restful/genson-0.99.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/restful/java-json.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/restful/jersey-bundle-1.17.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/restful/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/restful/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/restful/jersey-server-1.17.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/restful/jersey-servlet-1.17.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
