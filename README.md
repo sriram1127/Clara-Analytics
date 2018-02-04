@@ -11,5 +11,21 @@ Backend Service(Restful) is written in Java, hibernate framework and deployed on
 
 Database- MYSQL57 relational database modal
 
+
+Useful Commands
+------------------
+npm start
+npm run build
+npm install -g pushstate-server
+npm install superagent --save
+
+
+Main Stack
+----------
+
+React js, HTML5, CSS3, Java, Hibernate
+Restful webservice, MYSQL
+
 Tools - Atom, Eclipse, MySQL Workbench, Gitbash, Postman.
+
 
